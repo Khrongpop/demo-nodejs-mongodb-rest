@@ -5,7 +5,7 @@ pipeline {
     }
 
     environment {
-        image = "muang/demo-nodejs"
+        image = "muang/nodejs"
         registry = "docker.io"
     }
 
